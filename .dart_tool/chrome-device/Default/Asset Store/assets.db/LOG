@@ -1,0 +1,21 @@
+2023/03/01-18:42:18.114 6068 Reusing MANIFEST C:\Users\PANKAJ~1\AppData\Local\Temp\flutter_tools.33f45bb1\flutter_tools_chrome_device.d39ba8bf\Default\Asset Store\assets.db/MANIFEST-000001
+2023/03/01-18:42:18.116 6068 Recovering log #7
+2023/03/01-18:42:18.116 6068 Recovering log #10
+2023/03/01-18:42:18.116 6068 Level-0 table #9: started
+2023/03/01-18:42:18.347 6068 Level-0 table #9: 582 bytes OK
+2023/03/01-18:42:18.348 6068 Recovering log #11
+2023/03/01-18:42:18.352 6068 Level-0 table #11: started
+2023/03/01-18:42:19.239 6068 Level-0 table #11: 333380 bytes OK
+2023/03/01-18:42:19.326 6068 Delete type=0 #3
+2023/03/01-18:42:19.326 6068 Delete type=0 #4
+2023/03/01-18:42:19.326 6068 Delete type=0 #7
+2023/03/01-18:42:19.326 6068 Delete type=0 #10
+2023/03/01-18:42:19.366 6068 Delete type=0 #11
+2023/03/01-18:42:19.447 a384 Compacting 4@0 + 0@1 files
+2023/03/01-18:42:19.468 a384 Generated table #13@0: 18 keys, 384791 bytes
+2023/03/01-18:42:19.468 a384 Compacted 4@0 + 0@1 files => 384791 bytes
+2023/03/01-18:42:19.473 a384 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/03/01-18:42:19.476 a384 Delete type=2 #3
+2023/03/01-18:42:19.476 a384 Delete type=2 #6
+2023/03/01-18:42:19.476 a384 Delete type=2 #9
+2023/03/01-18:42:19.476 a384 Delete type=2 #11

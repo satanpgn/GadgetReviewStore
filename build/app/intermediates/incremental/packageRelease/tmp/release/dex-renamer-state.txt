@@ -1,0 +1,4 @@
+#Fri Jan 20 10:40:21 NPT 2023
+base.0=C\:\\Users\\PANKAJ SINGH\\Desktop\\MobileDEv\\flutter_project\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
